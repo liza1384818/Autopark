@@ -1,0 +1,17 @@
+Y:\Visual Studio Projects\Autopark\Autopark Database\bin\Debug\Autopark Database.dacpac
+Y:\Visual Studio Projects\Autopark\Autopark Database\bin\Debug\Autopark_Database.dll
+Y:\Visual Studio Projects\Autopark\Autopark Database\bin\Debug\Autopark_Database.pdb
+Y:\Visual Studio Projects\Autopark\Autopark Database\obj\Debug\Model.xml
+Y:\Visual Studio Projects\Autopark\Autopark Database\obj\Debug\refactor.xml
+Y:\Visual Studio Projects\Autopark\Autopark Database\obj\Debug\postdeploy.sql
+Y:\Visual Studio Projects\Autopark\Autopark Database\obj\Debug\predeploy.sql
+Y:\Visual Studio Projects\Autopark\Autopark Database\obj\Debug\Autopark_Database.dll
+Y:\Visual Studio Projects\Autopark\Autopark Database\obj\Debug\Autopark_Database.pdb
+C:\Users\123\Desktop\Autopark\Autopark Database\bin\Debug\Autopark Database.dacpac
+C:\Users\123\Desktop\Autopark\Autopark Database\obj\Debug\Autopark Database.sqlprojAssemblyReference.cache
+C:\Users\123\Desktop\Autopark\Autopark Database\obj\Debug\Model.xml
+C:\Users\123\Desktop\Autopark\Autopark Database\obj\Debug\refactor.xml
+C:\Users\123\Desktop\Autopark\Autopark Database\obj\Debug\postdeploy.sql
+C:\Users\123\Desktop\Autopark\Autopark Database\obj\Debug\predeploy.sql
+C:\Users\123\Desktop\Autopark\Autopark Database\obj\Debug\Autopark_Database.dll
+C:\Users\123\Desktop\Autopark\Autopark Database\obj\Debug\Autopark_Database.pdb

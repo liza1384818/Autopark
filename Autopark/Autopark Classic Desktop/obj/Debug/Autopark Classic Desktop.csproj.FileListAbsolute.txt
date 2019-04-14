@@ -1,0 +1,36 @@
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\bin\Debug\Autopark Classic Desktop.exe.config
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\bin\Debug\Autopark Classic Desktop.exe
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\bin\Debug\Autopark Classic Desktop.pdb
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\bin\Debug\Autopark Classic Desktop.exe.CodeAnalysisLog.xml
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\bin\Debug\Autopark Classic Desktop.exe.lastcodeanalysissucceeded
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\obj\Debug\Autopark Classic Desktop.csprojAssemblyReference.cache
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\obj\Debug\AutoparkClassicDesktop.Properties.Resources.resources
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\obj\Debug\AutoparkClassicDesktop.Ui.Dialogs.Etc.AboutForm.resources
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\obj\Debug\AutoparkClassicDesktop.Ui.MainForm.resources
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\obj\Debug\Autopark Classic Desktop.csproj.GenerateResource.cache
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\obj\Debug\Autopark Classic Desktop.csproj.CoreCompileInputs.cache
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\obj\Debug\Autopark Classic Desktop.exe
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\obj\Debug\Autopark Classic Desktop.pdb
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\obj\Debug\AutoparkClassicDesktop.Ui.EntityForms.DriversForm.resources
+Y:\Visual Studio Projects\Autopark\Autopark Classic Desktop\obj\Debug\AutoparkClassicDesktop.Ui.EntityForms.TransportForm.resources
+C:\Users\123\Desktop\Autopark\Autopark Classic Desktop\obj\Debug\Autopark Classic Desktop.csprojAssemblyReference.cache
+C:\Users\123\Desktop\Autopark\Autopark Classic Desktop\obj\Debug\Autopark Classic Desktop.exe
+C:\Users\123\Desktop\Autopark\Autopark Classic Desktop\obj\Debug\Autopark Classic Desktop.pdb
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\obj\Debug\Autopark Classic Desktop.csprojAssemblyReference.cache
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\bin\Debug\Autopark Classic Desktop.exe.config
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\bin\Debug\Autopark Classic Desktop.exe
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\bin\Debug\Autopark Classic Desktop.pdb
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\bin\Debug\Autopark Classic Desktop.exe.CodeAnalysisLog.xml
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\bin\Debug\Autopark Classic Desktop.exe.lastcodeanalysissucceeded
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\obj\Debug\AutoparkClassicDesktop.Properties.Resources.resources
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\obj\Debug\AutoparkClassicDesktop.Ui.Dialogs.Etc.AboutForm.resources
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\obj\Debug\AutoparkClassicDesktop.Ui.EntityForms.DriversForm.resources
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\obj\Debug\AutoparkClassicDesktop.Ui.EntityForms.TransportersForm.resources
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\obj\Debug\AutoparkClassicDesktop.Ui.EntityForms.TransportForm.resources
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\obj\Debug\AutoparkClassicDesktop.Ui.MainForm.resources
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\obj\Debug\Autopark Classic Desktop.csproj.GenerateResource.cache
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\obj\Debug\Autopark Classic Desktop.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\obj\Debug\Autopark Classic Desktop.exe
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\obj\Debug\Autopark Classic Desktop.pdb
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\obj\Debug\AutoparkClassicDesktop.Ui.Dialogs.AddDriverDialog.resources
+C:\Users\123\Desktop\курсовая уд\Autopark\Autopark Classic Desktop\obj\Debug\AutoparkClassicDesktop.Ui.RouteForm.resources
